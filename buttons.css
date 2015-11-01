@@ -1,0 +1,119 @@
+/* Raleway Font */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+/* Page properties */
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    margin-top: 200px;
+}
+
+/* Normal Button */
+.normalBTN {
+  background-color: white;
+  border: 1px solid #2c3e50;
+  color: #2c3e50;
+  padding: 10px 35px;
+  border-radius: 5px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.normalBTN:hover {
+  border: 1px solid #2980b9;
+  color: #2980b9;
+}
+
+/* End Normal Button */
+
+/* Alert normal button*/
+.alertBTN {
+  background-color: white;
+  border: 1px solid #2c3e50;
+  color: #2c3e50;
+  padding: 10px 35px;
+  border-radius: 5px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.alertBTN:hover {
+  border: 1px solid #f39c12;
+  color: #f39c12;
+}
+/* End Anim normal button*/
+
+/* Warning button*/
+.warningBTN {
+	background-color: white;
+  border: 1px solid #2c3e50;
+  color: #2c3e50;
+  padding: 10px 35px;
+  border-radius: 5px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.warningBTN:hover {
+	border: 1px solid #c0392b;
+  color: #c0392b;
+}
+/* End Warning button*/
+
+/* Perfect button */
+.perfectBTN {
+	background-color: white;
+  border: 1px solid #2c3e50;
+  color: #2c3e50;
+  padding: 10px 35px;
+  border-radius: 5px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.perfectBTN:hover {
+	border: 1px solid #27ae60;
+  color: #27ae60;
+}
+/* Perfect button*/
+
+
+/* Always actives */
+/*-----------------------------------------------*/
+
+/* Normal Button */
+.normalBTNa {
+  background-color: white;
+  border: 1px solid #2980b9;
+  color: #2980b9;
+  padding: 10px 35px;
+  border-radius: 5px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* Alert normal button*/
+.alertBTNa {
+  background-color: white;
+  border: 1px solid #f39c12;
+  color: #f39c12;
+  padding: 10px 35px;
+  border-radius: 5px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* Warning button*/
+.warningBTNa {
+	background-color: white;
+  border: 1px solid #c0392b;
+  color: #c0392b;
+  padding: 10px 35px;
+  border-radius: 5px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* Perfect button */
+.perfectBTNa {
+	background-color: white;
+  border: 1px solid #27ae60;
+  color: #27ae60;
+  padding: 10px 35px;
+  border-radius: 5px;
+  font-family: 'Open Sans', sans-serif;
+}
