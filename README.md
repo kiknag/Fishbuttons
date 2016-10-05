@@ -1,4 +1,4 @@
-# Fishbuttons
+# Lite Buttons
 **Styled button collection for you website or web application**
 How to use it
 
